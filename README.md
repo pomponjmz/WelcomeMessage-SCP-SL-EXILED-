@@ -123,24 +123,7 @@ WelcomeBroadcast/
 
 ---
 
-## 🛠️ Building from Source
-
-**Prerequisites:** .NET SDK (supporting `net48`), or Visual Studio / Rider.
-
-```bash
-git clone https://github.com/YOUR_USERNAME/WelcomeBroadcast.git
-cd WelcomeBroadcast
-dotnet build --configuration Release
-```
-
-The compiled DLL will be at:
-```
-WelcomeBroadcast/bin/Release/net48/WelcomeBroadcast.dll
-```
-
----
-
 ## 📄 License
 
-This project is open-source. Feel free to use, modify, and distribute it.  
-A credit or link back to this repository is appreciated but not required.
+This project is open-source. Feel free to use or modify. Don't repost as your own if you don't:
+-credit or link back to this repository.
