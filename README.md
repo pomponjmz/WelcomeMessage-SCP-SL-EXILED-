@@ -31,8 +31,7 @@ When a player joins your server, they receive a **personalized, rainbow-colored 
 1. Download the latest `WelcomeBroadcast.dll` from the [Releases](../../releases) page.
 2. Place it in your server's plugin folder:
    ```
-   ~/.config/EXILED/Plugins/WelcomeBroadcast.dll       ← Linux
-   %AppData%\EXILED\Plugins\WelcomeBroadcast.dll        ← Windows
+   ~/.config/EXILED/Plugins/WelcomeBroadcast.dll       ← Pathway
    ```
 3. **Start your server once.** Exiled will auto-generate the config file.
 4. Edit the config (see below) to customize the message.
